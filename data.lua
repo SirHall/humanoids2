@@ -292,7 +292,7 @@ turn_to_tank =
         {
           priority = "low",
           width = 104,
-          height = 84,
+          height = 64,
           frame_count = 2,
           apply_runtime_tint = true,
           direction_count = 64,
